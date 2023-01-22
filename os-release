@@ -1,0 +1,12 @@
+NAME="Blackjaro Linux"
+PRETTY_NAME="Blackjaro Linux"
+ID=blackjaro
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="32;1;24;144;200"
+HOME_URL="https://blackjarolinux.github.io/"
+DOCUMENTATION_URL="https://blackjarolinux.github.io/"
+SUPPORT_URL="https://blackjarolinux.github.io/"
+BUG_REPORT_URL="https://github.com/blackjarolinux"
+PRIVACY_POLICY_URL="https://blackjarolinux.github.io/"
+LOGO=blackjaro-logo
