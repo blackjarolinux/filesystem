@@ -1,7 +1,7 @@
 # Maintainer: Yisus7u7 <dev.yisus@hotmail.com>
 pkgname=filesystem
 pkgver=2023.1
-pkgrel=1
+pkgrel=2
 pkgdesc='Base Blackjaro Linux files'
 arch=('x86_64')
 license=('GPL')
@@ -43,7 +43,7 @@ sha256sums=('e03bede3d258d680548696623d5979c6edf03272e801a813c81ba5a5c64f4f82'
             'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
             'cd4a55177020a436254bb4baf84e068b98b3b0f6644173a7c853d58d236e00f1'
             'b3a0fe98c0859192fb0fe03a9033ca5c5c8b48e9d23466a355b7c95bd5601051'
-            '295a881e674d14ee0c0e77f25236a8fd99a9453e5c33f635f55d2e8c6959c7ea'
+            '2abac5b8b9a8cf6ce8c222e8c8ddf447f37497f86f7c9587f3a46960760df061'
             'a8a1cd5c81b11498d43ba0e0b5de53de6f154a395d54171f44d2874b4f659053')
 
 package() {
